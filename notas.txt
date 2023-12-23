@@ -1,0 +1,66 @@
+<div id="contenedor" class="contenedor">
+      <div class="articulo">
+          <img src="img/imagen1.jpg" alt="producto 1">
+          <div class="informacion">
+              <p>Remera HappyInside</p>
+              <p class="precio">$199<span>.99</span></p>
+              <button type="button" class="botonComprar">Comprar</button>
+          </div>
+      </div>
+      <div class="articulo">
+          <img src="img/imagen2.jpg" alt="producto 2">
+          <div class="informacion">
+              <p>Remera Nature</p>                   
+              <p class="precio">$299<span>.99</span></p>
+              <button type="button" class="botonComprar">Comprar</button>
+          </div>
+      </div>
+      <div class="articulo">
+          <img src="img/imagen3.jpg" alt="producto 3">
+          <div class="informacion">
+              <p>Remera BrokenHeart</p>                   
+              <p class="precio">$399<span>.99</span></p>
+              <button class="botonComprar">Comprar</button>
+          </div>
+      </div>
+      <div class="articulo">
+          <img src="img/imagen4.jpg" alt="producto 4">
+          <div class="informacion">
+              <p>Remera Emilia</p>                   
+              <p class="precio">$499<span>.99</span></p>
+              <button class="botonComprar">Comprar</button>
+          </div>
+      </div>
+      <div class="articulo">
+          <img src="img/imagen5.jpg" alt="producto 5">
+          <div class="informacion">
+              <p>Remera Tupac</p>                   
+              <p class="precio">$599<span>.99</span></p>
+              <button class="botonComprar">Comprar</button>
+          </div>
+      </div>
+      <div class="articulo">
+          <img src="img/imagen6.jpg" alt="producto 6">
+          <div class="informacion">
+              <p>Remera Tortuga</p>                   
+              <p class="precio">$699<span>.99</span></p>
+              <button class="botonComprar">Comprar</button>
+          </div>
+      </div>
+      <div class="articulo">
+          <img src="img/imagen7.jpg" alt="producto 7">
+          <div class="informacion">
+              <p>Remera Summer</p>                   
+              <p class="precio">$799<span>.99</span></p>
+              <button class="botonComprar">Comprar</button>
+          </div>
+      </div>
+      <div class="articulo">
+          <img src="img/imagen8.jpg" alt="producto 8">
+          <div class="informacion">
+              <p>Remera 1975</p>                   
+              <p class="precio">$899<span>.99</span></p>
+              <button class="botonComprar">Comprar</button>
+          </div>
+      </div>
+  </div>
