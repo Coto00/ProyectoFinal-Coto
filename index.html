@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>Tienda de Ropa</title>
   <link rel="stylesheet" href="style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -22,7 +22,11 @@
   <header id="header">
       <h1>Tienda De Ropa</h1> 
       <!-- <input type="text" id="Buscador" placeholder="  Buscar..."> -->
-      <img id="carrito" class="carrito" src="img/carrito-de-compras.png" alt="carrito">
+      <h1>
+        <img id="carrito" class="carrito" src="img/carrito-de-compras.png" alt="carrito">
+        <span id="cantidadCarrito" class="cantidad-carrito"></span>
+      </h1>
+      
   </header>
 
 
@@ -30,8 +34,11 @@
 
   <div id="modal-container" class="modal-container"></div>
 
-  <script src="productos.js"></script>
-  <script src="main.js"></script>
+
+
+  <script src="js/productos.js"></script>
+  <script src="js/main.js"></script>
+  <script src="js/carrito.js"></script>
 </body>
 
 </html>
